@@ -1,7 +1,7 @@
 # Exemplo golang e docker
 
 
-### Link Imagem Docker Hub
+### Link Container Docker Hub
 [Desafio go](https://hub.docker.com/r/dirceusr/codeeducation)
 
 ### Languages and Tools
