@@ -12,7 +12,7 @@ ___
 [](https://visitor-badge.laobi.icu/badge?page_id=dirceusr)
 ___
 ### Seguidores
-[[Github](https://img.shields.io/github/followers/dirceusr?label=Follow&style=social)](https://github.com/dirceusr)
+[[!Github](https://img.shields.io/github/followers/dirceusr?label=Follow&style=social)](https://github.com/dirceusr)
      
 
 
