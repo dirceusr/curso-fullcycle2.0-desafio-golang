@@ -1,0 +1,9 @@
+version: '3'
+
+services: 
+  golang:
+    build: 
+      context:  .
+      dockerfile: Dockerfile.prod  
+    image: dirceusr/codeeducation
+    container_name: desafiogo
