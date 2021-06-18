@@ -1,4 +1,4 @@
-# Exemplo golang e docker - Curso fullcycle2.0-desafio golang
+# Exemplo golang e docker
 
 ## Link Imagem Docker Hub
 
