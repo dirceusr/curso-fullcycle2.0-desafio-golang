@@ -16,13 +16,16 @@ ___
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px"/></a>
 </p>
 ___
+
 ### Stats
 <img aling="left" alt="dirceusr/codeeducation Github Stats" 
 src="https://github-readme-stats.vercel.app/api?username=dirceusr&show_icons=true"/>    
 ___
+
 ### Visitantes
 [](https://visitor-badge.laobi.icu/badge?page_id=dirceusr)
 ___
+
 ### Seguidores
 [![Github](https://img.shields.io/github/followers/dirceusr?label=Follow&style=social)](https://github.com/dirceusr)
      
